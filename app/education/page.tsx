@@ -1,4 +1,4 @@
-import Education from '../components/Education'
+import Education from '../../components/Education'
 
 export default function EducationPage() {
   return <Education />
