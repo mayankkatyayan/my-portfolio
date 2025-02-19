@@ -98,7 +98,7 @@ export default function Contact() {
           </a>
 
           {/* GitHub Icon */}
-          <a href="https://github.com/your-username" target="_blank" rel="noopener noreferrer" className="bg-white text-blue-600 p-3 rounded-full shadow-lg hover:bg-gray-100 transition duration-300">
+          <a href="https://github.com/mayankkatyayan" target="_blank" rel="noopener noreferrer" className="bg-white text-blue-600 p-3 rounded-full shadow-lg hover:bg-gray-100 transition duration-300">
             <Image
               src="/images/github.png" // Replace with actual path to your GitHub icon
               alt="GitHub"

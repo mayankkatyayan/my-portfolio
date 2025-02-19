@@ -43,11 +43,11 @@ export default function Home() {
               Contact Me
             </a>
           </div>
-        </main>
-
+        
+      <div>
         {/* Portfolio Sections */}
         <section id="about" className="w-full">
-          <About />
+          {/* <About /> */}
         </section>
         <section id="experience" className="w-full">
           <Experience />
@@ -58,7 +58,7 @@ export default function Home() {
         <section id="skills" className="w-full">
           <Skills />
         </section>
-
+      
         {/* Footer */}
         <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
           <a
@@ -92,7 +92,10 @@ export default function Home() {
             LinkedIn
           </a>
         </footer>
+        </div>
+      </main>
       </div>
     </div>
+    
   );
 }
