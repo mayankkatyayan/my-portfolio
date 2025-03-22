@@ -107,7 +107,11 @@ The contact form uses **React state management**. Submitting the form will conso
 ## 📧 Contact
 Feel free to reach out via the [Contact Form](#contact-form-functionality) or connect on [LinkedIn](https://www.linkedin.com/in/mayankkat/).
 
----
-Created by **Mayank Katyayan**
-Reach out by 
+## Reach Out
+
+If you have any questions or want to collaborate, feel free to reach out to me at [mayankkatyayan@example.com].
+
+Buy Me a Coffee
+
+If you appreciate my work, feel free to support me by buying me a coffee via PayPal: [paypal.me/mayankkatyayan].
 

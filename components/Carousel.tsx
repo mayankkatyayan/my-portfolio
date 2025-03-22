@@ -6,9 +6,9 @@ import Image from 'next/image';
 
 const Carousel = () => {
   const images = [
-    { src: '/images/1.png', alt: 'Profile' },
-    { src: '/images/github.png', alt: 'GitHub' },
-    { src: '/images/linkedin.png', alt: 'LinkedIn' },
+    { src: '/public/images/caousel1.jpg', alt: 'c1' },
+    { src: '/images/caousel2.jpg', alt: 'c2' },
+    { src: '/images/caousel3.jpg', alt: 'c3' },
   ];
 
   const settings = {
@@ -25,8 +25,8 @@ const Carousel = () => {
     <div
       style={{
         width: '800px',
-        height: '400px',
         margin: 'auto',
+        height: '100%',
         overflow: 'hidden',
       }}
     >
@@ -37,7 +37,7 @@ const Carousel = () => {
             style={{
               position: 'relative',
               width: '100%',
-              height: '800px', // Ensure this matches your desired height
+              // height: '1200px', // Ensure this matches your desired height
             }}
           >
             <Image
